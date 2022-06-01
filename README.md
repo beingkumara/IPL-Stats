@@ -7,11 +7,11 @@ Performed Exploratory Data Analysis on the IPL Dataset(2008 - 2020)
 3. Plotted various graphs like:
 
 
-  a. Player vs Number of Man of the Matches received.
-  b. Toss decision by the team
-  c. Number of matches won by the team which has won the toss and vice - verse
-  d. Histogram displaying the number of matches won by wickets or runs by a certain margin
-  e. Number of matches played by a team in eliminators.
-  f. Runs scored by a batsman and wickets taken by a bowler
-  g. NUmber of boundaries scored by a batsman
-  h. Total anaysis of a player 
+  * Player vs Number of Man of the Matches received.
+  * Toss decision by the team
+  * Number of matches won by the team which has won the toss and vice - verse
+  * Histogram displaying the number of matches won by wickets or runs by a certain margin
+  * Number of matches played by a team in eliminators.
+  * Runs scored by a batsman and wickets taken by a bowler
+  * NUmber of boundaries scored by a batsman
+  * Total anaysis of a player 
